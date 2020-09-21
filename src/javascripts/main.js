@@ -1,8 +1,9 @@
 import '../styles/main.scss';
+import Data from './helpers/projectData';
+import Cards from './components/projectCards';
 
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  Cards.createProjectCards(Data.getProjectData());
 };
 
 init();
