@@ -7,8 +7,11 @@ This site provides examples of my work in addition to a description of my work e
 ## Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ef8d99c0-4831-4075-bbcb-329bcb2cb82b/deploy-status)](https://app.netlify.com/sites/kaitlynvanhook/deploys)
 
-## Screenshots
+## Live Site
+You can view the live site here: [Kaitlyn's Personal Bio Site](https://kaitlynvanhook.netlify.app/).
 
+## Demo
+![Personal Bio Site Demo](personal-bio-site-gif.gif)
 
 ## Tech/Framework
 * JavaScript
