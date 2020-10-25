@@ -119,6 +119,11 @@ img {
   height: 2.85em;
   line-height: 2.95em;
   object-fit: contain;
+  &:hover {
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+  }
 }
 
 .github-button {
@@ -134,6 +139,11 @@ img {
   height: 2.85em;
   line-height: 2.95em;
   object-fit: contain;
+  &:hover {
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+  }
 }
 
 #footer {
