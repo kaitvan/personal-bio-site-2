@@ -1,0 +1,26 @@
+{
+  "project1": { 
+    "title": "Dino Kennel",
+    "description": "This is a single-page application with dynamic features. Similar to Tamagotchi digital pets, the user can care for dinos in the kennel by feeding them, petting them, and sending them on adventures!",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://dino-kennel-c9ef6.web.app/",
+    "githubUrl": "https://github.com/kaitvan/dino-kennel"
+  },
+  "project2": {
+    "title": "Pinterest",
+    "description": "The user can pin ideas from other websites and organize them into categories on boards, similar to the original Pinterest.",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://pinterest-4db91.web.app/",
+    "githubUrl": "https://github.com/kaitvan/pinterest"
+  },
+  "project3": {
+    "title": "Le Baguette",
+    "description": "This web application allows authorized users to use CRUD functionality to manage a restaurant's operations. This group project was completed during my program at Nashville Software School.",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://michelin-star-35c92.web.app/",
+    "githubUrl": "https://github.com/kaitvan/michelin-star-restaurant-dashboard-michelin-star-restaurant-dashboard"
+  }
+}
